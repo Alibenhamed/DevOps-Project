@@ -1,4 +1,4 @@
-# SampleWebsite
+# Deploy Website
 ## Building Docker Image of SampleWebsite and Pushing it to DockerHub.
 <div align="center">
     <img src="https://user-images.githubusercontent.com/76991475/228748856-75b072e6-0e67-4091-bdf0-f15a30d014c1.png">
